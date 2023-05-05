@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+   <head>
+      <title>JA!ND</title>
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+      <link href="vendor/animate/animate.css" rel="stylesheet" type="text/css"/>
+      <link href="css/style.css" rel="stylesheet" type="text/css"/>
+   </head>
+   <body>
+      <div class="navigation container-fluid">
+         <div class="row justify-content-md-center ">
+            <div class="col-md-10 col-sm-12">
+               <nav class="navbar navbar-default">
+                  <img src="img/logo jand.jpg" width="300" height="170" alt="Logo">
+                  <img src="img/ohter icon-06.jpg" width="50" height="50" alt="Logo" style="margin-top: 50px;">
+                  </a>
+               </nav>
+            </div>
+         </div>
+      </div>
+      <div class="container-fluid pb-5 portfolio-text">
+         <div class="row" style="text-align: right;">
+            <ul class="social-icons pt-3">
+               <li class="social-2tem"><a class="social-link text-light" href="#"><img class="card-img-top" src="img/ohter icon-03.jpg" alt="Card image cap" width="40" height="40"></a></li>
+               <li class="social-item"><a class="social-link text-light" href="#"><img class="card-img-top" src="img/ohter icon-02.jpg" alt="Card image cap" width="40" height="40"></a></li>
+               <li class="social-item"><a class="social-link text-light" href="#"><img class="card-img-top" src="img/ohter icon-04.jpg" alt="Card image cap" width="40" height="40"></a></li>
+               <li class="social-item"><a class="social-link text-light" href="#"><img class="card-img-top" src="img/ohter icon-05.jpg" alt="Card image cap" width="40" height="40"></a></li>
+           </ul>
+         </div>
+      </div>
+      <div class="scrollblock">
+         <div class="container-fluid pt-10">
+            <div class="row justify-content-md-center ">
+               <div class="col-md-10 col-sm-12">
+                  <div class="card-columns">
+                    <div class="card card-hover h-100">
+                        <div class="card-body">
+                           <a href="indexㄋ.html">
+                              <img class="card-img-top" src="img/img1.jpg" alt="Card image cap" width="400" height="400">
+                              <div class="reveal h-100 p-2 d-flex ">
+                                 <div class="w-100 align-self-center">
+                                    <p></p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                     <div class="card card-hover h-100">
+                        <div class="card-body">
+                           <a href="index.html">
+                              <img class="card-img-top" src="img/img4.jpg" alt="Card image cap" width="400" height="400">
+                              <div class="reveal h-100 p-2 d-flex ">
+                                 <div class="w-100 align-self-center">
+                                    <p></p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                     <div class="card card-hover h-100">
+                        <div class="card-body">
+                           <a href="index.html">
+                              <img class="card-img-top" src="img/img2.jpg" alt="Card image cap" width="400" height="400">
+                              <div class="reveal h-100 p-2 d-flex ">
+                                 <div class="w-100 align-self-center">
+                                    <p></p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                     <div class="card card-hover h-100">
+                        <div class="card-body">
+                           <a href="index.html">
+                              <img class="card-img-top" src="img/img5.jpg" alt="Card image cap" width="400" height="400">
+                              <div class="reveal h-100 p-2 d-flex ">
+                                 <div class="w-100 align-self-center">
+                                    <p></p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                     <div class="card card-hover h-100">
+                        <div class="card-body">
+                           <a href="index.html">
+                              <img class="card-img-top" src="img/img3.jpg" alt="Card image cap" width="400" height="400">
+                              <div class="reveal h-100 p-2 d-flex ">
+                                 <div class="w-100 align-self-center">
+                                    <p></p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                     <div class="card card-hover h-100">
+                        <div class="card-body">
+                           <a href="index.html">
+                              <img class="card-img-top" src="img/img6.jpg" alt="Card image cap" width="400" height="400">
+                              <div class="reveal h-100 p-2 d-flex ">
+                                 <div class="w-100 align-self-center">
+                                    <p></p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
